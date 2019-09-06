@@ -22,6 +22,7 @@ You are going to create a Lambda Newspaper. Your job is going to be to create th
 
 In meeting the minimum viable product (MVP) specifications listed below, you should have a console full of correct responses to the problems given.
 
+
 ## Self-Study Questions
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
