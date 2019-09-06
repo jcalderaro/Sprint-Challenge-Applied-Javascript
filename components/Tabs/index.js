@@ -22,12 +22,6 @@ axios.get("https://lambda-times-backend.herokuapp.com/topics")
 
 })
 
-.catch(err => {
-
-    console.log(err);
-
-})
-
 const topics = document.querySelector(".topics")
 
 function createTab(object) {
